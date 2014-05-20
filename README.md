@@ -9,3 +9,8 @@ Since endomondo doesn't provide any official api I had to improvise and retrieve
 
 
 This is a early version and will be developed.
+
+
+- [ ] Update to the latest version
+  - [ ] reverse engineering mobile application packets
+  - [ ] tidy up code
